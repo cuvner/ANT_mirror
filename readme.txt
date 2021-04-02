@@ -1,1 +1,6 @@
-read me for ps3eye test on rpi4
+Repo for an installation based on Daniel Rozin "Mechanical Mirrors"
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
